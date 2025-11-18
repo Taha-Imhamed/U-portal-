@@ -1,6 +1,6 @@
 # University Management System
 
-A modern web-based university management system with AI support, secure authentication, and role-based access control for students, professors, and administrators.
+A modern web-based university management system with AI support, secure authentication, and role-based access control for students, professors, and administrators. The system is designed for scalability, maintainability, and future expansion.
 
 ---
 
@@ -14,6 +14,7 @@ A modern web-based university management system with AI support, secure authenti
   - [Database Techniques](#database-techniques)
   - [Security Techniques](#security-techniques)
   - [Frontend Techniques](#frontend-techniques)
+- [Planned Features](#planned-features)
 
 ---
 
@@ -147,4 +148,45 @@ A modern web-based university management system with AI support, secure authenti
 
 ---
 
-This architecture follows modern web development best practices with a focus on **security, scalability, and maintainability**.
+## Planned Features (Coming Soon)
+
+### Advanced Student Features
+- Track academic progress trends over semesters
+- Personalized dashboard with recommendations
+- Internship and job opportunity notifications
+- Integration with external learning platforms
+
+### Finance & Payments
+- Tuition invoice generation and management
+- Scholarship and financial aid tracking
+- Payment gateway integration (credit card, PayPal, etc.)
+- Automatic reminders for unpaid fees
+- Financial analytics for students and admin
+
+### Analytics & Reporting
+- Comprehensive reports for courses, grades, and attendance
+- Department-level statistics and performance trends
+- Student performance benchmarking
+- AI-generated insights and suggestions for professors/admins
+
+### Advertising & Communication
+- Targeted notifications for events, scholarships, and seminars
+- Email and push notifications for students and professors
+- Promotional campaigns within the system
+- Announcements with priority levels and visibility settings
+
+### Course & Content Expansion
+- Digital library access for textbooks and study materials
+- Video lecture streaming and recording
+- Collaborative forums for students and professors
+- AI-powered tutoring and FAQ assistant
+
+### System Enhancements
+- Multi-language support
+- Dark/light mode for UI
+- Offline mode with cached data
+- Mobile app companion
+
+---
+
+This architecture follows modern web development best practices with a focus on **security, scalability, maintainability, and future extensibility**.
