@@ -2,7 +2,7 @@
 
 A modern web-based university management system with AI support, secure authentication, and role-based access control for students, professors, and administrators. The system is designed for scalability, maintainability, and future expansion.
 
----
+---s
 
 ## Table of Contents
 - [Functional Requirements](#functional-requirements)
